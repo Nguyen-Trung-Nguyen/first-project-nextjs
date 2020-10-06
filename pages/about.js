@@ -8,7 +8,7 @@ about.propTypes = {
 function about(props) {
     return (
         <div>
-            <p>Hello about</p>
+            <p>Hello Word</p>
         </div>
     );
 }
